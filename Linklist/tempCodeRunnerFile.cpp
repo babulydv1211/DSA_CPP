@@ -1,0 +1,1 @@
+ // cout<<(((a.next)->next))->next->val;
